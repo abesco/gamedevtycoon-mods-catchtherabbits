@@ -1,0 +1,12 @@
+{
+    "id" : "CatchTheRabbits-AbescoUG",
+    "name" : "Catch the rabbits",
+    "version":"1.0.0",
+    "author":"Francesco Abbattista and Chad Keating",
+    "url":"",
+    "description" : "Can you catch the rabbits and get 1M cash for each?",
+    "main" : "./CatchTheRabbits.js",
+    "dependencies" : {
+        "gdt-modAPI":"0.1.x"
+    }
+}
